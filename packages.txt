@@ -1,10 +1,11 @@
 angularjs@0.3.0
 angularjs-snippets@0.10.18
 angularjs-styleguide-snippets@0.7.2
-atom-beautify@0.28.7
+atom-beautify@0.28.8
+atom-html-preview@0.1.10
 autocomplete-modules@1.0.0
 autocomplete-paths@1.0.2
-color-picker@2.0.10
+color-picker@2.0.11
 file-icons@1.5.8
 git-log@0.4.1
 git-plus@5.2.2
@@ -15,13 +16,14 @@ japanese-menu@1.0.0
 javascript-snippets@1.0.0
 jscs-fixer@1.0.0
 jsonlint@1.1.2
-linter@1.2.3
+linter@1.2.4
 linter-eslint@3.0.0
 linter-jscs@1.12.0
 linter-xmllint@0.0.7
-minimap@4.11.2
+minimap@4.12.0
 node-debugger@1.1.6
 pigments@0.8.4
+project-manager@1.15.11
 uglify@1.2.3
 unity-ui@2.0.11
 
