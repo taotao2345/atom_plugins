@@ -12,7 +12,7 @@ git-plus@5.2.2
 gulp-control@0.4.2
 gulp-helper@5.0.0
 gulp-snippets@0.6.1
-japanese-menu@1.0.0
+japanese-menu@1.1.1
 javascript-snippets@1.0.0
 jscs-fixer@1.0.0
 jsonlint@1.1.2
