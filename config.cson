@@ -1,0 +1,37 @@
+"*":
+  "exception-reporting":
+    userId: "d136d221-89bc-d097-10c6-92777dbf6a5d"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "unity-ui"
+      "one-dark-syntax"
+    ]
+    projectHome: "/User/takuogaw/Desctop/dev"
+    disabledPackages: [
+      "jshint"
+      "linter-js-standard"
+      "linter-eslint"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 16
+    showIndentGuide: true
+    showInvisibles: true
+  "unity-ui":
+    showIcons: true
+    colorStatusIndicatorsInTreeView: true
+  "one-dark-ui": {}
+  "atom-beautify":
+    _analyticsUserId: "3283f3c4-da1e-424a-ac91-6bc8b3768f74"
+    analytics: false
+    js_end_with_newline: true
+  minimap:
+    displayMinimapOnLeft: true
+  "linter-eslint":
+    eslintPath: "/usr/local/share/npm/bin/eslint"
+  "jscs-fixer": {}
+  "linter-jscs":
+    preset: "google"
+  "git-plus": {}
