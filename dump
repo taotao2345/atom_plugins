@@ -1,1 +1,4 @@
 apm list --installed --bare > packages.txt
+
+git commit -am "fix"
+git push
