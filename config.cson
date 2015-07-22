@@ -12,7 +12,7 @@
     disabledPackages: [
       "jshint"
       "linter-js-standard"
-      "linter-eslint"
+      "linter-jshint"
     ]
   editor:
     invisibles: {}
