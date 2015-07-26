@@ -12,7 +12,7 @@
     disabledPackages: [
       "jshint"
       "linter-js-standard"
-      "linter-jshint"
+      "gulp-helper"
     ]
   editor:
     invisibles: {}
@@ -30,7 +30,7 @@
   minimap:
     displayMinimapOnLeft: true
   "linter-eslint":
-    eslintPath: "/usr/local/share/npm/bin/eslint"
+    globalNodePath: "/usr/local"
   "jscs-fixer": {}
   "linter-jscs":
     preset: "google"

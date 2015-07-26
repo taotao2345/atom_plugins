@@ -19,7 +19,7 @@ jsonlint@1.1.2
 linter@1.2.4
 linter-eslint@3.0.1
 linter-jscs@1.13.0
-linter-jshint@1.1.2
+linter-jshint@1.1.4
 linter-xmllint@0.0.7
 minimap@4.12.0
 node-debugger@1.1.6
